@@ -1,6 +1,6 @@
 # PhyRISK Complete Project Setup Guide
 
-🎓 **By Shashwat Pathak, Student of Data Science at BHU**
+🎓 **By Shashwat Pathak, Student of Data Science**
 
 ---
 
