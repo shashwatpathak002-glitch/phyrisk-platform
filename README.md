@@ -2,7 +2,7 @@
 
 **A privacy-first SaaS platform for mental health risk prediction, explainability, and AI-powered insights.**
 
-🎓 **Project by:** Shashwat Pathak, Student of Data Science at Banaras Hindu University (BHU)
+🎓 **Project by:** Shashwat Pathak, Student of Data Science
 
 ---
 
