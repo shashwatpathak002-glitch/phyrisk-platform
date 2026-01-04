@@ -1,7 +1,7 @@
 # 🚀 START HERE - PhyRISK Quick Launch Guide
 
 **PhyRISK – AI-Driven Mental Health Risk Intelligence**  
-Project by **Shashwat Pathak**, Student of Data Science at BHU
+Project by **Shashwat Pathak**, Student of Data Science
 
 ---
 
