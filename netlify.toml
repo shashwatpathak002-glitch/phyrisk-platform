@@ -1,4 +1,4 @@
-[build]c
+[build]
 ommand = "npm run build"
 publish = "dist"
 
