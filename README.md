@@ -259,14 +259,14 @@ UI: `http://localhost:3000`
 
 - [x] Auth system (register/login/JWT)
 - [x] Database models & session management
-- [ ] Dataset upload & preprocessing
-- [ ] ML model training pipeline
-- [ ] SHAP explainability module
-- [ ] ChatGPT integration
-- [ ] Frontend dashboard pages
-- [ ] Deployment configuration
-- [ ] Admin analytics panel
-- [ ] Mobile responsiveness
+- [ x Dataset upload & preprocessing
+- [ x ML model training pipeline
+- [ x SHAP explainability module
+- [ x ChatGPT integration
+- [ x Frontend dashboard pages
+- [ x Deployment configuration
+- [ x Admin analytics panel
+- [ x Mobile responsiveness
 
 ---
 
